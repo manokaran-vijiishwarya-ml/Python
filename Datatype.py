@@ -1,0 +1,24 @@
+import random
+x=1
+e=7
+Y=complex(x,e)
+y="viji"
+z=1j
+q=1+5j
+w=-8j
+a=["red","black","blue"]
+b=("apple","banana","kiwi")
+c={"xyz","dfg"}
+d={"name":"viji","age":"21"}
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(q))
+print(type(w))
+print(Y)
+p=random.randrange(6,100)
+print(p)
