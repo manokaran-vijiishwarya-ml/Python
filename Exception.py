@@ -5,8 +5,10 @@ try:
     # n=-1
     res = 100 / n
     
-except ZeroDivisionError:
-    print("You can't divide by zero!")
+# except ZeroDivisionError:
+#     print("You can't divide by zero!")
+except Exception as e:
+    print(e)
    
 else:
     print("Result is", res)

@@ -1,0 +1,1 @@
+Working on  with read and write modes using r+
